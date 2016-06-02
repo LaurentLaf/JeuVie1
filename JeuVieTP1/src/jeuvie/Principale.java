@@ -15,7 +15,6 @@ public class Principale {
 		
 		Controleur ctrl = new Controleur();
 		ctrl.setBestiole(bestiole, 4, 10);
-		ctrl.setBestiole(bestiole1, 40, 20);
-		ctrl.setBestiole(bestiole2, 80, 30);
+
 	}
 }
