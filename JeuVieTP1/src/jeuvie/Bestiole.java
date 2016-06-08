@@ -13,7 +13,9 @@ public class Bestiole {
 	//Variable
 	private String couleur;
 	
-	//Constructeur
+	/*
+	 * Constructeur de Bestiole ************************************
+	 */
 	public Bestiole(String couleur) {
 		this.couleur = couleur;
 		this.numero = compteur++;
